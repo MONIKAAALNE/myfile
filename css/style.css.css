@@ -1,0 +1,281 @@
+body{
+    margin:0;
+    padding:0;
+    font-family: "Raleway",Arial, Helvetica, sans-serif;
+}
+.clearfix::after{
+    content:"";
+    display:block;
+    clear:both;
+}
+.big-wrapper{
+    width:100%;
+    height:600px;
+    background-image: url(../img/dd.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    border-top: 10px solid #5385c1;
+}
+.header{
+    max-width: 1000px;
+    margin: 0 auto;
+    
+}
+.header p{
+    color:#fff;
+    float: left;
+    font-weight: bold;
+    font-size: 20px;
+}
+.header ul{
+    float: right;
+    color:#fff;
+    
+}
+.header ul li{
+    float: left;
+    list-style: none;
+    margin-right: 50px;
+}
+/*banner start here*/
+.banner{
+    width:60%;
+    margin: 0 auto;
+    margin-top: 200px;
+    color: #fff;
+    text-align: center;
+}
+.banner h1{
+    font-weight: 100;
+    font-size: 60px;
+}
+/*three-section starts here*/
+.three-section{
+    width:60%;
+    margin: 0 auto;
+    padding: 100px 0px;
+
+}
+.main{
+    width:30%;
+    float: left;
+    margin-right: 30px;
+}
+.main h2{
+    color:#5385c1;
+    font-weight:300;
+    font-size: 25px;
+    line-height: 35px;
+}
+.main p{
+    line-height: 28px;
+    margin-top: 25px;
+}
+.main button{
+    width:100px;
+    height: 40px;
+    background-color: #5385c1;
+    color: #fff;
+    border: 0;
+    font-size: 20px;
+    font-family: "Raleway",Arial, Helvetica, sans-serif;
+    margin-top: 25px;
+}
+.add-border{
+    border-style:solid;
+    border-width: 0px 1px 0px 0px;
+    border-color: #dbdbdb;
+}
+/*team star here*/
+.team{
+    width:100%;
+    background-color: #5385c1;
+    color: #fff;
+
+}
+.fixed-width{
+    width:60%;
+    
+    margin: 0 auto;
+    padding:70px 0px;
+    
+}
+.fixed-width h1{
+    font-weight: 200;
+    text-align: center;
+    font-size: 45px;
+}
+.fixed-width p{
+    text-align: center;
+    font-weight: 300;
+}
+.person{
+    width:20%;
+    text-align: center;
+    float: left;
+    border:1px solid #fff;
+    padding: 30px 5px;
+    margin-right: 38px;
+    margin-top: 65px;
+}
+.person img{
+    border-radius: 100%;
+    border-width: 70%;
+}
+/*two-section start here*/
+.two-section{
+    width:60%;
+    margin: 0 auto;
+    text-align: center;
+    padding: 50px 0px;
+}
+.two-section h1{
+    color:#5385c1;
+    font-weight: 100;
+    font-size: 60px;
+    line-height: 20px;
+}
+.two-section p{
+    color:gray;
+    font-size: 18px;
+}
+.two-section .left{
+    width:45%;
+    float: left;
+    text-align: left;
+    margin-top: 40px;
+}
+.two-section .right{
+    width:45%;
+    float: right;
+    text-align: left;
+    margin-top: 40px;
+}
+.two-section h2{
+    color: #5385c1;
+    font-weight: 500;
+    font-size: 25px;
+    line-height: 20px;
+    padding: 30px 0px;
+}
+.two-section p{
+    line-height: 25px;
+}
+.two-section img{
+    width:100%;
+}
+.two-section button{
+    width:100px;
+    height: 40px;
+    background-color: #5385c1;
+    color: #fff;
+    border:0;
+    font-size: 20px;
+    font-family: "Raleway",Arial, Helvetica, sans-serif;
+    margin-top: 25px;
+    margin-bottom: 30px;
+}
+/*footer start here*/
+.footer-full-width{
+    width:100%;
+    height: 200px;
+    /*background-color: red;*/
+    float: left;
+}
+.footer{
+    width:60%;
+    margin: 0 auto;
+    border-top: 1px solid #dbdbdb;
+}
+.footer p{
+    color: #dbdbdb;
+    margin-top: 40px;
+}
+.social{
+    float: right;
+    color: #5385c1;
+    position: relative;
+    top:-36px;
+    
+}
+.social span{
+    padding: 10px;
+    font-size: 22px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
